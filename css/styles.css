@@ -1,0 +1,72 @@
+
+body{
+
+    background-color: rgb(231, 253, 253);
+    margin: 0px;
+    text-align: center;
+}
+
+
+
+#pro-pic{
+
+    height: 100px;
+    width: 100px ;
+    position: absolute;
+    right: 700px;
+
+
+
+    
+}
+
+h1{
+    font-family:verdana, sans-serif;
+  text-align: center;
+  margin: 20px auto 0px auto;
+  /* width: 10%; */
+} 
+
+
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.cloud1{
+    height: 100px;
+    width: 200px;
+    position: relative;
+    left: -100px;
+
+}
+.cloud3{
+    height: 100px;
+    width: 200px;
+    position: relative;
+    left: -100px;
+
+}
+.cloud1  {
+    height: 100px;
+    width: 200px;
+    position: relative;
+    left: -100px;
+
+}
+
+.cloud2{
+    height: 100px;
+    width: 200px;
+    position: relative;
+    left: 100px;
+
+}
+
+.tree1{
+    height: 400px;
+    width: 250px;
+    position: absolute;
+    left: 100px;
+
+}
